@@ -1,0 +1,10 @@
+{
+    "store": [
+        {
+            "id": "test",
+            "name": "Hello World",
+            "summary": "A test card for Graycrown store",
+            "download": "https://wiki.teamfortress.com/w/images/c/c8/Eng_guzzle_06.wav"
+        }
+    ]
+}
